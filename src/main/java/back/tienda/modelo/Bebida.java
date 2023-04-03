@@ -21,6 +21,9 @@ public class Bebida {
 	public Bebida() {
 		
 	}
+	   
+	
+	
 	
 
 	public Bebida(Long id, String nom_bebida, String categoria) {

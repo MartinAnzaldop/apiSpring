@@ -7,5 +7,5 @@ import back.tienda.modelo.Bebida;
 
 @Repository
 public interface BebidaRepositorio extends JpaRepository<Bebida, Long> {
-
+       
 }
