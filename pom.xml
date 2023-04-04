@@ -11,7 +11,7 @@
 	<groupId>backTienda</groupId>
 	<artifactId>tienda</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>tienda</name>
+	<name>tienda</name> 
 	<description>Api de tienda</description>
 	<properties>
 		<java.version>1.8</java.version>
