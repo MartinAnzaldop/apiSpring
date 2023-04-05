@@ -14,6 +14,7 @@ import back.tienda.repositorio.BebidaRepositorio;
 
 @RestController
 @RequestMapping("/api/v1/")
+@CrossOrigin(origins = "*")
 public class BebidaControlador {
       
 	@Autowired
